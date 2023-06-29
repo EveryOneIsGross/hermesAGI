@@ -2,9 +2,7 @@
 
 ## Conceptual and Philosophical Intentions
 
-Hermes³AGI is a unique exploration of the intersection between artificial intelligence, natural language processing, and the esoteric world of tarot. It's designed to simulate a conversation with different "tarot agents", each with their own unique guidance prompt and response characteristics. The philosophical intention behind Hermes³AGI is to explore how AI can be used to emulate the rich symbolism and interpretive nature of tarot readings.
-
-The tarot is a tool for introspection, for exploring our subconscious and the mysteries of the universe. By creating AI agents that embody the archetypes of the tarot, we can use the power of AI to delve into these mysteries and gain new insights.
+Hermes³AGI is a unique exploration of the intersection between artificial intelligence, natural language processing, and the esoteric world of tarot. It's designed to simulate a conversation with different "tarot agents", each with their own unique guidance prompt and response characteristics. The philosophical intention behind Hermes³AGI is to explore how AI can be used to emulate the rich symbolism and interpretive nature of tarot to further align our wills. The tarot is a great tool for introspection, for exploring our subconscious and the mysteries of the universe. By creating AI agents that embody the archetypes of the tarot, we can use the power of AI to delve into these mysteries and gain new insights, together.
 
 ## Hermeticism and the Anon Roundtable Nature of the Philosopher Hermes' Works
 
