@@ -1,13 +1,13 @@
 ## hermes³AGI
 
-![Default_Hermes_Trismegistus_as_a_black_ink_on_white_paper_Thou_1_e821deed-e80e-4024-b5c9-1b2c8778ae81_0](https://github.com/EveryOneIsGross/hermesAGI/assets/23621140/250fb6ca-a07a-4ae2-ab50-c92fb0d4ff1b)
-
-
 ## Hermeticism and the Roundtable Nature of Hermes' Philosophical Works
 
 hermes³AGI draws inspiration from Hermeticism, a philosophical and religious tradition based on the teachings attributed to Hermes Trismegistus. The teachings of Hermes, often presented in the form of dialogues or roundtable discussions, emphasize the pursuit of gnosis — knowledge of the divine or mystical insight. hermes³AGI seeks to emulate this roundtable nature through the interaction of different "Principle agents".
 
 In Hermeticism, the universe is seen as a coherent whole where everything is interconnected, mirroring the interconnected nature of the principles this AI is based on, where each principle is part of a greater whole. hermes³AGI seeks to emulate this interconnectedness by using the AI to generate responses that are not only relevant to the user's input, but also connected to the wisdom and guidance of the philosophical principles.
+
+![Leonardo_Creative_Hermes_Trismegistus_as_a_white_ink_on_black_0](https://github.com/EveryOneIsGross/hermesAGI/assets/23621140/0033fc5d-5ec9-42b5-a6c6-31b59d008f0b)
+
 
 ## Aligning AI to Your Will Through Philosophical Principles
 
